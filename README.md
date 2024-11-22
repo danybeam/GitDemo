@@ -1,3 +1,4 @@
 # GitDemo
 
-an actual sentence for real
+an actual sentence for real.
+this is another example
